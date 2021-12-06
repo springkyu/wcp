@@ -1,4 +1,4 @@
-public class Variable01.java {
+public class Variable01 {
     public static void main(String[] args) {
         int num1;
         String str1;
