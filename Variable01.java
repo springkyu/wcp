@@ -6,5 +6,11 @@ public class Variable01.java {
         str1 = "Hello World!";
         System.out.println(num1);
         System.out.println(str1);
+
+        num1 = 20;
+        System.out.println(num1);
+
+        int num2 = 30;
+        System.out.println(num2);
     }
 }
