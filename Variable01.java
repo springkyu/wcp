@@ -1,0 +1,10 @@
+public class Variable01.java {
+    public static void main(String[] args) {
+        int num1;
+        String str1;
+        num1 = 10;
+        str1 = "Hello World!";
+        System.out.println(num1);
+        System.out.println(str1);
+    }
+}
