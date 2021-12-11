@@ -16,6 +16,8 @@ public class Chapter05 {
         Character c = 'あいう';
         System.out.println(c);
 
+        int[] array = { 10, 20, 30, 40, 50 };
+        System.out.println(array[3]);
 
     }
 }
