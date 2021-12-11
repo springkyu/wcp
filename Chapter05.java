@@ -8,6 +8,7 @@ public class Chapter05 {
         boolean b = true;
         System.out.println(b);
 
+        // ラッパークラスの「Float」「Integer」「Character」の変数
         Integer i = 100;
         System.out.println(i);
         Float f = 1.1234f;
