@@ -4,6 +4,8 @@ public class Chapter05 {
         System.out.println(l);
         double d = 3.14;
         System.out.println(d);
+        boolean b = true;
+        System.out.println(b);
 
     }
 }
