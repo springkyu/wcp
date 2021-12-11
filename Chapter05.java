@@ -10,6 +10,8 @@ public class Chapter05 {
 
         Integer i = 100;
         System.out.println(i);
+        Float f = 1.1234f;
+        System.out.println(f);
 
     }
 }
