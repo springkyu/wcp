@@ -8,5 +8,8 @@ public class Chapter05 {
         boolean b = true;
         System.out.println(b);
 
+        Integer i = 100;
+        System.out.println(i);
+
     }
 }
