@@ -13,7 +13,7 @@ public class Chapter05 {
         System.out.println(i);
         Float f = 1.1234f;
         System.out.println(f);
-        Character c = 'あいう';
+        Character c = 'あ';
         System.out.println(c);
 
         int[] array = { 10, 20, 30, 40, 50 };
