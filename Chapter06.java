@@ -5,5 +5,8 @@ public class Chapter06 {
 
         val++;
         System.out.println(val);
+
+        val *= 5;
+        System.out.println(val);
     }
 }
