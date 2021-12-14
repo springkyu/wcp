@@ -13,3 +13,19 @@ public class Switch01 {
         }
     }
 }
+
+
+// if文でも可能
+
+public class Switch02 {
+    public static void main(String[] args) {
+        int val = 2;
+        if (val == 3) {
+            System.out.println("よくできました！");
+        } else if (val == 2) {
+            System.out.println("ふつうでした！");
+        } else {
+            System.out.println("がんばろう！");
+        }
+    }
+}
