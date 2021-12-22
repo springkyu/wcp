@@ -13,6 +13,7 @@ public class Chapter08 {
             System.out.println(array[i]);
         }
 
+        // 3. 拡張「for」文
         for (int val : array) {
             if (val % 2 == 0) {
                 continue;
