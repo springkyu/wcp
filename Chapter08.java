@@ -7,6 +7,7 @@ public class Chapter08 {
             num++;
         }
 
+        // 2. 通常「for」文
         int array[] = { 1, 4, 14, 25 };
         for (int i = 0; i < array.length; i++) {
             System.out.println(array[i]);
